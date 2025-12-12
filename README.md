@@ -8,6 +8,7 @@ Files:
 
 Food_Recognition_SUBMISSION.ipynb : Google Colab notebook
 food_recognition_model.h5 : Trained model
+(Note: The trained model file is not included due to GitHub size limit)
 The notebook covers:
 
 Dataset loading and preprocessing
